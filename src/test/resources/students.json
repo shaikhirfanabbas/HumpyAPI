@@ -1,0 +1,105 @@
+{
+  "students":[ 
+    {
+      "id": 1,
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Johnson",
+      "location": "USA",
+      "phone": "123456789",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Garcia",
+      "location": "Mexico",
+      "phone": "987654321",
+      "courses": [
+        "JavaScript",
+        "Node.js"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kim",
+      "location": "South Korea",
+      "phone": "456789123",
+      "courses": [
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Müller",
+      "location": "Germany",
+      "phone": "741852963",
+      "courses": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chen",
+      "location": "China",
+      "phone": "369258147",
+      "courses": [
+        "SQL",
+        "Database Management"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Suzuki",
+      "location": "Japan",
+      "phone": "951753852",
+      "courses": [
+        "PHP",
+        "Laravel"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Martinez",
+      "location": "Spain",
+      "phone": "258963147",
+      "courses": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ali",
+      "location": "Pakistan",
+      "phone": "369147258",
+      "courses": [
+        "ASP.NET",
+        "MVC"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Nguyen",
+      "location": "Vietnam",
+      "phone": "147258369",
+      "courses": [
+        "Django",
+        "Flask"
+      ]
+    }
+  ]
+}
+  
